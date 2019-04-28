@@ -1,0 +1,52 @@
+body{
+	margin: 0 auto;
+}
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+.first-row {
+	margin-top: 50px;
+}
+
+.col-4 {
+    width: 33%;
+    background-color: #1E88E5;
+    float: left;
+    height: 120px;
+}
+.col-12{
+	width: 100%;
+    background-color: #1E88E5;
+    height: 120px;
+    float: left;
+}
+.col-6{
+	width: 49.75%;
+    background-color: #1E88E5;
+    height: 120px;
+    float: left;
+}
+.col-8{
+	width: 66%;
+    background-color: #1E88E5;
+    height: 120px;
+    float: left;
+}
+.col-2{
+	width: 16.5%;
+    background-color: #1E88E5;
+    height: 120px;
+    float: left;
+}
+.mr {
+    margin-right: 4px;
+}
+p{
+	padding-left: 5px;
+    color: #fff;
+}
+.mt{
+	margin-top: 10px;
+}
